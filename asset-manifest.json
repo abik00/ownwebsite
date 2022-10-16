@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.42265530.css",
-    "main.js": "/static/js/main.a51b3e93.js",
-    "static/js/787.8480b549.chunk.js": "/static/js/787.8480b549.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.42265530.css.map": "/static/css/main.42265530.css.map",
-    "main.a51b3e93.js.map": "/static/js/main.a51b3e93.js.map",
-    "787.8480b549.chunk.js.map": "/static/js/787.8480b549.chunk.js.map"
+    "main.css": "/abik00.github.io/static/css/main.42265530.css",
+    "main.js": "/abik00.github.io/static/js/main.279616b6.js",
+    "static/js/787.8480b549.chunk.js": "/abik00.github.io/static/js/787.8480b549.chunk.js",
+    "static/media/logo.svg": "/abik00.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/abik00.github.io/index.html",
+    "main.42265530.css.map": "/abik00.github.io/static/css/main.42265530.css.map",
+    "main.279616b6.js.map": "/abik00.github.io/static/js/main.279616b6.js.map",
+    "787.8480b549.chunk.js.map": "/abik00.github.io/static/js/787.8480b549.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42265530.css",
-    "static/js/main.a51b3e93.js"
+    "static/js/main.279616b6.js"
   ]
 }
