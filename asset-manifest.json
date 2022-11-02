@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/abik00.github.io/static/css/main.42265530.css",
-    "main.js": "/abik00.github.io/static/js/main.279616b6.js",
+    "main.css": "/abik00.github.io/static/css/main.5279bf4b.css",
+    "main.js": "/abik00.github.io/static/js/main.476aa9e4.js",
     "static/js/787.8480b549.chunk.js": "/abik00.github.io/static/js/787.8480b549.chunk.js",
+    "static/media/laptop.jpg": "/abik00.github.io/static/media/laptop.74f1993381e431979a7a.jpg",
+    "static/media/stylecraze.png": "/abik00.github.io/static/media/stylecraze.d38ebd66016b82d0a0f2.png",
+    "static/media/naukri.con.png": "/abik00.github.io/static/media/naukri.con.a21ccf80ecc22d0f34a0.png",
     "static/media/logo.svg": "/abik00.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abik00.github.io/index.html",
-    "main.42265530.css.map": "/abik00.github.io/static/css/main.42265530.css.map",
-    "main.279616b6.js.map": "/abik00.github.io/static/js/main.279616b6.js.map",
+    "main.5279bf4b.css.map": "/abik00.github.io/static/css/main.5279bf4b.css.map",
+    "main.476aa9e4.js.map": "/abik00.github.io/static/js/main.476aa9e4.js.map",
     "787.8480b549.chunk.js.map": "/abik00.github.io/static/js/787.8480b549.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42265530.css",
-    "static/js/main.279616b6.js"
+    "static/css/main.5279bf4b.css",
+    "static/js/main.476aa9e4.js"
   ]
 }
